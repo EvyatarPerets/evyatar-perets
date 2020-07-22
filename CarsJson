@@ -1,20 +1,24 @@
 {
-"cars":[
-"lamborghini":{
-"lamborghini1":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghinijapanone.jpeg",
-"lamborghini2":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghinijapantwo.jpeg",
-"lamborghini3":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghiniprague.jpeg"
-},
-"ferrari:{
+"cars" : {
+"lamborghini": [
+"lamborghini1" : "https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghinijapanone.jpeg",
+"lamborghini2" : "https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghinijapantwo.jpeg",
+"lamborghini3" : "https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/lamborghiniprague.jpeg"
+],
+
+"ferrari" : [
 "ferrari1":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/pista.jpeg"
-},
-"porsche":{
-"porshce1":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/porscheisrael.jpeg"
-},
-"americanMuscles":{
-"americanMuscles1":"https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/corvette.jpeg"
-}
+],
+
+"porsche" : [
+"porshce1" : "https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/porscheisrael.jpeg"
+],
+
+"americanMuscles" : [
+"americanMuscles1" : "https://raw.githubusercontent.com/EvyatarPerets/evyatar-perets/master/corvette.jpeg"
 ]
+
+}
 }
 
       
